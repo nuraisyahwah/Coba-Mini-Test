@@ -10,17 +10,11 @@
         android:id="@+id/Tv_hallo_dunia"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hallo Duni"
+        android:text="Hallo Dunia"
         android:layout_centerInParent="true"
         android:textSize="17dp"
+        android:textStyle="bold"
         android:textColor="@color/teal_200"/>
 
-    <TextView
-        android:id="@+id/tv_coba_mini_test"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="NAMA"
-        android:layout_below="@+id/Tv_hallo_dunia"
-        android:layout_centerHorizontal="true"/>
 
 </RelativeLayout>

@@ -15,8 +15,13 @@
         android:textColor="@color/teal_200" />
 
     <EditText
+        android:id="@+id/et_mini_test"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_above="@id/btn_Button"
+        android:layout_centerInParent="true"
+        android:layout_margin="10dp"
+        android:textStyle="bold"
         android:text="Coba Mini Test"/>
 
 
